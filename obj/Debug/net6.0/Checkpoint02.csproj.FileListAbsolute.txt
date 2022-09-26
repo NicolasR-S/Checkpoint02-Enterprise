@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\bin\Debug\net6.0\Checkpoint02.exe
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\bin\Debug\net6.0\Checkpoint02.deps.json
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\bin\Debug\net6.0\Checkpoint02.runtimeconfig.json
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\bin\Debug\net6.0\Checkpoint02.dll
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\bin\Debug\net6.0\Checkpoint02.pdb
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.dll
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\refint\Checkpoint02.dll
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.pdb
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\Checkpoint02.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Checkpoint02\Checkpoint02\obj\Debug\net6.0\ref\Checkpoint02.dll
